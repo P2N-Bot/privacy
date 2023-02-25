@@ -1,4 +1,4 @@
-:Config: **Politique de confidentialité | P2N 2023**
+⚙️ **Politique de confidentialité | P2N 2023**
 
 > **Le stockage de vos données (Identifiant du serveur, Identifiant des salons, Identifiant de l'utilisateur...) sont inscrites dans une base de donnée privée.**
 > **Vos données restent des informations privées, vous devez donc avoir pris connaissance des données stockées sur notre base de donnée et autres.**
